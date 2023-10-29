@@ -1,0 +1,1 @@
+# Alogrithm-of-min-value-of-the-list
